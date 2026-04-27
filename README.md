@@ -3,7 +3,7 @@
 git 오픈소스 제공 : https://github.com/Makerfabs/MaUWB_ESP32S3-with-STM32-AT-Command
 
 - 앵커 최대 8개 / 태그 최대 제한 64개
-- ESP32-S3가 내장되어 있어 “Wi-Fi”와 “Bluetooth 5.0(BLE)”을 바로 쓸 수 있음. ㅠ
+- ESP32-S3가 내장되어 있어 “Wi-Fi”와 “Bluetooth 5.0(BLE)”을 바로 쓸 수 있음.
 
 ```markdown
 ## AT 커맨드로 역할 전환 가능 
