@@ -7,7 +7,7 @@ git 오픈소스 제공 : https://github.com/Makerfabs/MaUWB_ESP32S3-with-STM32-
   
 #### 아래 태그 1개 / 앵커 3개 세팅  
 
-![alt text](image.png)  
+![alt text](assets/image.png)
 
 ---  
 
