@@ -160,4 +160,6 @@ Anchor 3개 (A0, A1, A2) + Tag 1개 (get_range 펌웨어)
 - MaUWB 스펙: Anchor 최대 8개(ID 0~7), Tag 최대 64개(ID 0~63)
 - DW3000 기반, 최대 500m 범위, 정밀도 약 0.5m (100m 이내)
 - 모듈 구분을 위해 네임 스티커(A0, A1, A2, T0) 부착 권장
-- 버튼: RST(리셋), FLASH(다운로드 모드 진입 — FLASH 누른 채 RST 눌렀다 떼기)
+- 버튼: RST(리셋), FLASH(다운로드 모드 진입 — FLASH 누른 채 RST 눌렀다 떼기)  
+
+<video controls src="assets/test.mp4" title="Title"></video>
